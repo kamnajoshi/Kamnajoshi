@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Latest Technologies
 - 🤔 I’m looking for help with Machine Learning Models
-- 💬 Ask me about Coffee
+- 💬 Ask me for Coffee
 - 📫 How to reach me: kamnajoshikj@gmail.com
 - 😄 CSE Undergrad
 
