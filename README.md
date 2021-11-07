@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on Developing My Portfolio
 - 🌱 I’m currently learning Python
@@ -9,5 +8,4 @@
 - 💬 Ask me about Coffee
 - 📫 How to reach me: kamnajoshikj@gmail.com
 - 😄 CSE Undergrad
-- ⚡ Fun fact: ...
--->
+
